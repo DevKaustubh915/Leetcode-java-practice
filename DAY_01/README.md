@@ -1,5 +1,3 @@
-Day 01 – Arrays
-
 Problems solved today will focus on basic array concepts
 to build strong foundations in problem solving.
 
