@@ -31,5 +31,7 @@ class Solution {
             // add the current number and its index to the map
             numMap.put(nums[i], i);
         }
+
+        return new int[] {}; // return empty array if no solution found
     }
 }
